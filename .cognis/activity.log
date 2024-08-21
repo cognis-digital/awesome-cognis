@@ -40,3 +40,4 @@
 2024-06-30T15:17:07  chore(io): guard against ReDoS in patterns
 2024-07-11T10:34:14  refactor(deps): add a dry-run flag
 2024-08-10T17:51:21  style(scoring): handle empty and malformed input
+2024-08-21T12:08:28  build(rules): load rules lazily for faster startup
