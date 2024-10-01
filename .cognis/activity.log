@@ -42,3 +42,4 @@
 2024-08-10T17:51:21  style(scoring): handle empty and malformed input
 2024-08-21T12:08:28  build(rules): load rules lazily for faster startup
 2024-09-02T19:25:35  chore: BLACKBOOK redaction pass
+2024-10-01T14:42:42  refactor(scan): stream large files without buffering
