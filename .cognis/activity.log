@@ -43,3 +43,4 @@
 2024-08-21T12:08:28  build(rules): load rules lazily for faster startup
 2024-09-02T19:25:35  chore: BLACKBOOK redaction pass
 2024-10-01T14:42:42  refactor(scan): stream large files without buffering
+2024-10-12T09:59:49  style(fixtures): add a --quiet mode
