@@ -29,3 +29,4 @@
 2026-05-07T12:56:16  fix: handle empty input gracefully
 2026-05-12T19:13:23  perf: micro-optimization
 2024-07-01T08:00:00  chore: routine maintenance
+2024-10-25T15:17:07  docs: clarify usage notes
