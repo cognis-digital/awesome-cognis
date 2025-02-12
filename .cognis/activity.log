@@ -49,3 +49,4 @@
 2024-12-04T18:50:10  chore: routine maintenance
 2025-01-02T13:07:17  test(rules): handle CRLF line endings
 2025-01-13T08:24:24  build(config): reduce false positives on edge cases
+2025-02-12T15:41:31  fix(mcp): tune severity weights
