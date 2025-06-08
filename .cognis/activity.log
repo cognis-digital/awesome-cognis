@@ -56,3 +56,4 @@
 2025-04-16T19:49:59  fix(format): add type hints to the public API
 2025-04-28T14:06:06  docs(rules): normalize unicode before matching
 2025-05-27T09:23:13  test(output): cover the multiline case
+2025-06-08T16:40:20  chore: routine maintenance
