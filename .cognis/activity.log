@@ -57,3 +57,4 @@
 2025-04-28T14:06:06  docs(rules): normalize unicode before matching
 2025-05-27T09:23:13  test(output): cover the multiline case
 2025-06-08T16:40:20  chore: routine maintenance
+2025-07-07T11:57:27  fix(fixtures): improve error messages with context
