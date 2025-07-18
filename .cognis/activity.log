@@ -58,3 +58,4 @@
 2025-05-27T09:23:13  test(output): cover the multiline case
 2025-06-08T16:40:20  chore: routine maintenance
 2025-07-07T11:57:27  fix(fixtures): improve error messages with context
+2025-07-18T18:14:34  docs(engine): assert exit codes in tests
