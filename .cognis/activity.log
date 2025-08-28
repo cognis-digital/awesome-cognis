@@ -60,3 +60,4 @@
 2025-07-07T11:57:27  fix(fixtures): improve error messages with context
 2025-07-18T18:14:34  docs(engine): assert exit codes in tests
 2025-07-30T13:31:41  perf(ci): extract the scorer
+2025-08-28T08:48:48  ci(format): support stdin as a source
