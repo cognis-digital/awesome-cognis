@@ -71,3 +71,4 @@
 2026-01-20T16:04:44  style(cli): pin the test dependencies
 2026-02-01T11:21:51  feat(output): dedupe overlapping findings
 2026-03-02T18:38:58  chore(docs): clarify the README quickstart
+2026-03-14T13:55:05  chore: BLACKBOOK redaction pass
