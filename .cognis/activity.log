@@ -72,3 +72,4 @@
 2026-02-01T11:21:51  feat(output): dedupe overlapping findings
 2026-03-02T18:38:58  chore(docs): clarify the README quickstart
 2026-03-14T13:55:05  chore: BLACKBOOK redaction pass
+2026-03-25T08:12:12  style(engine): respect .gitignore when walking
