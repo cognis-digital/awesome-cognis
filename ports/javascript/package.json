@@ -1,0 +1,10 @@
+{
+  "name": "@cognis/awesome-cognis",
+  "version": "0.2.0",
+  "description": "JavaScript port of awesome-cognis (Cognis Neural Suite)",
+  "bin": {
+    "awesome-cognis": "index.js"
+  },
+  "license": "LicenseRef-COCL-1.0",
+  "type": "module"
+}
