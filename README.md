@@ -258,6 +258,19 @@ Cognis composes and credits the best of open source. A sample of upstreams:
 - [nexB/scancode-toolkit](https://github.com/nexB/scancode-toolkit) — used by `ossaudit` (license detection)
 - [fsfe/reuse-tool](https://github.com/fsfe/reuse-tool) — used by `ossaudit` (REUSE compliance)
 
+## How it fits
+
+```mermaid
+flowchart LR
+  U[You / CI / Agent] --> R[awesome-cognis]
+  R --> O[Outputs & artifacts]
+  R --> M[MCP / JSON]
+  M --> AI[AI agents]
+  R --> S[Cognis Neural Suite]
+```
+
+**Explore the suite →** [🗂️ all tools](https://github.com/cognis-digital/cognis-neural-suite) · [⭐ awesome-cognis](https://github.com/cognis-digital/awesome-cognis) · [🔗 cognis-sources](https://github.com/cognis-digital/cognis-sources)
+
 ## License
 
 [COCL 1.0](LICENSE) · contributions welcome.
