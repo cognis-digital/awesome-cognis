@@ -4,6 +4,19 @@
 
 All tools are single-purpose, self-hostable, and MCP-native. [Cognis Digital](https://cognis.digital) · [umbrella](https://github.com/cognis-digital/cognis-neural-suite)
 
+## Usage — step by step
+
+This is an Awesome list (curated catalog) — there is no install; you consume it as a directory of the Cognis Neural Suite.
+
+1. **Open the list** in this README and jump via the [Contents](#contents) to a category (AI Security & Governance, AI Agents & LLMOps, Blue/Red Team, OSINT, Federal & Compliance, ...).
+2. **Pick a tool** entry and follow its link to the tool's own repo, where the per-tool Usage walkthrough and install command live.
+3. **Install the tool you chose** from its repo, e.g. a suite CLI:
+   ```bash
+   pip install cognis-mcpharden    # example — see the chosen tool's README for its real package
+   ```
+4. **Discover related tools** in the same category to compose a pipeline (e.g. map -> audit -> harden across AI Security entries).
+5. **Contribute / keep current in CI** — fork, add your entry following the existing format, and open a PR. See [`CONTRIBUTING.md`](CONTRIBUTING.md) and the [Built on](#built-on) section for prior-art lists this draws from.
+
 ## Contents
 
 - [🛡️ AI Security & Governance](#ai-security)
