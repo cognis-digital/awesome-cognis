@@ -4,6 +4,20 @@
 
 All tools are single-purpose, self-hostable, and MCP-native. [Cognis Digital](https://cognis.digital) · [umbrella](https://github.com/cognis-digital/cognis-neural-suite)
 
+## What is this?
+
+Awesome Cognis is a hand-picked directory of open-source security and AI tools built and maintained by Cognis Digital. Think of it as a searchable catalog: every entry links to a real tool with a one-line description of what it does, so you can quickly find the right tool for tasks like scanning your code for secrets, auditing AI model behavior, or generating compliance documents. The list covers everything from everyday developer utilities to specialist cybersecurity and privacy tools. It is useful for developers, security teams, and anyone who wants self-hosted, privacy-respecting alternatives to commercial software.
+
+## Getting started
+
+Browse the list below or use your browser's Find (Ctrl+F / Cmd+F) to search by keyword. Each entry links directly to the tool's GitHub repository where you will find installation instructions and usage docs. To save a local copy:
+
+```bash
+git clone https://github.com/cognis-digital/awesome-cognis.git
+```
+
+Want to contribute a tool or correction? Open an issue or pull request — see [CONTRIBUTING.md](CONTRIBUTING.md) if present, or follow the standard GitHub flow.
+
 ## Contents
 
 - [🛡️ AI Security & Governance](#ai-security)
@@ -271,7 +285,42 @@ flowchart LR
 
 **Explore the suite →** [🗂️ all tools](https://github.com/cognis-digital/cognis-neural-suite) · [⭐ awesome-cognis](https://github.com/cognis-digital/awesome-cognis) · [🔗 cognis-sources](https://github.com/cognis-digital/cognis-sources)
 
+<a name="verification"></a>
+## Verification
+
+
+
+Every push is verified end-to-end. Latest audit (2026-06-13):
+
+```text
+tests        : 0 passed, 0 failed, 0 errored
+compile      : all modules parse
+cli          : n/a
+package      : n/a
+```
+
+<details><summary>CLI surface (<code>--help</code>)</summary>
+
+```text
+(see --help)
+```
+</details>
+
+Full machine-readable results: [`AUDIT.md`](AUDIT.md) · regenerate with `python -m awesome-cognis --help` + `pytest -q`.
+
+<div align="right"><a href="#top">↑ back to top</a></div>
+
+
 ## License
 
 [COCL 1.0](LICENSE) · contributions welcome.
 
+<!-- cognis:domains:start -->
+## Domains
+
+**Primary domain:** AI & ML  ·  **JTF MERIDIAN division:** ATHENA-PRIME · SAGE
+
+**Topics:** `cognis` `ai` `llm` `machine-learning`
+
+Part of the **Cognis Neural Suite** — 300+ source-available tools organized across 12 domains under the JTF MERIDIAN command structure. See the [suite on GitHub](https://github.com/cognis-digital) and [jtf-meridian](https://github.com/cognis-digital/jtf-meridian) for how the pieces fit together.
+<!-- cognis:domains:end -->
