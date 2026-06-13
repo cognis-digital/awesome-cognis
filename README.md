@@ -4,6 +4,20 @@
 
 All tools are single-purpose, self-hostable, and MCP-native. [Cognis Digital](https://cognis.digital) · [umbrella](https://github.com/cognis-digital/cognis-neural-suite)
 
+## What is this?
+
+Awesome Cognis is a hand-picked directory of open-source security and AI tools built and maintained by Cognis Digital. Think of it as a searchable catalog: every entry links to a real tool with a one-line description of what it does, so you can quickly find the right tool for tasks like scanning your code for secrets, auditing AI model behavior, or generating compliance documents. The list covers everything from everyday developer utilities to specialist cybersecurity and privacy tools. It is useful for developers, security teams, and anyone who wants self-hosted, privacy-respecting alternatives to commercial software.
+
+## Getting started
+
+Browse the list below or use your browser's Find (Ctrl+F / Cmd+F) to search by keyword. Each entry links directly to the tool's GitHub repository where you will find installation instructions and usage docs. To save a local copy:
+
+```bash
+git clone https://github.com/cognis-digital/awesome-cognis.git
+```
+
+Want to contribute a tool or correction? Open an issue or pull request — see [CONTRIBUTING.md](CONTRIBUTING.md) if present, or follow the standard GitHub flow.
+
 ## Contents
 
 - [🛡️ AI Security & Governance](#ai-security)
