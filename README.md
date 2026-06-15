@@ -86,6 +86,7 @@ This is an Awesome list (curated catalog) — there is no install; you consume i
 ## 🔍 OSINT
 <a name='osint'></a>
 
+- **[conflictwatch](https://github.com/cognis-digital/conflictwatch)** — Open-source conflict monitoring & situational awareness — ACLED/GDELT + 290-source catalog
 - **[corpmap](https://github.com/cognis-digital/corpmap)** — Corporate structure & beneficial-ownership mapper
 - **[cryptotrace](https://github.com/cognis-digital/cryptotrace)** — Free-tier blockchain investigator — ETH/BTC clustering + sanctions xref
 - **[darkmirror](https://github.com/cognis-digital/darkmirror)** — Surface-web mirror of public Tor leak-site index for brand monitoring
@@ -140,6 +141,7 @@ This is an Awesome list (curated catalog) — there is no install; you consume i
 ## 🧰 Developer Tools
 <a name='devtools'></a>
 
+- **[cognis-connect](https://github.com/cognis-digital/cognis-connect)** — Integration SDK — one Finding contract -> STIX/MISP/Sigma/Splunk/Slack for the whole suite
 - **[apidiff](https://github.com/cognis-digital/apidiff)** — Breaking-change detector for OpenAPI / GraphQL across commits
 - **[codeglance](https://github.com/cognis-digital/codeglance)** — Repo onboarding map — architecture + hotspots for humans and agents
 - **[envdoctor](https://github.com/cognis-digital/envdoctor)** — .env validator, secret-presence and config-drift checker
