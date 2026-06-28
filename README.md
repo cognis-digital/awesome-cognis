@@ -4,6 +4,33 @@
 
 All tools are single-purpose, self-hostable, and MCP-native. [Cognis Digital](https://cognis.digital) · [umbrella](https://github.com/cognis-digital/cognis-neural-suite)
 
+
+<!-- cognis:example:start -->
+## 🔎 Example output
+
+**Sample result format** _(illustrative values — run on your own data for real findings):_
+
+```
+{
+"results": [
+  {
+    "id": "123456",
+    "name": "John Doe",
+    "score": 0.8,
+    "confidence": 0.9
+  },
+  {
+    "id": "789012",
+    "name": "Jane Smith",
+    "score": 0.6,
+    "confidence": 0.7
+  }
+]
+}
+```
+
+<!-- cognis:example:end -->
+
 ## Usage — step by step
 
 This is an Awesome list (curated catalog) — there is no install; you consume it as a directory of the Cognis Neural Suite.
